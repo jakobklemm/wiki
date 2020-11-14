@@ -2,7 +2,7 @@
 title: Personal wiki
 description: 
 published: 1
-date: 2020-11-14T20:12:09.660Z
+date: 2020-11-14T20:13:42.743Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-14T18:28:59.454Z
