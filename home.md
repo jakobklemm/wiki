@@ -1,10 +1,10 @@
 ---
-title: Jakob Klemm - Personal wiki
+title: Personal wiki
 description: 
 published: 1
-date: 2020-11-14T19:25:29.422Z
+date: 2020-11-14T20:12:09.660Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-11-14T18:28:59.454Z
 ---
 
