@@ -2,9 +2,9 @@
 title: Personal wiki
 description: 
 published: 1
-date: 2020-11-14T20:13:46.365Z
+date: 2020-11-24T10:29:01.479Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-11-14T18:28:59.454Z
 ---
 
@@ -23,4 +23,4 @@ At some point in the future I plan to make the graphs available on this wiki but
 # Setup
 This wiki is hosted using [WikiJS](https://wiki.js.org/) but all content is created using Emacs and org-mode. The plaintext files are converted to compatible markdown using [pandoc](https://pandoc.org/) and pushed to the server through git. 
 
-A more exact version of this setup is described in the emacs config and personal system.
+A more exact version of this setup is described in the emacs config and personal system ([database](/database)).
