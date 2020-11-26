@@ -32,7 +32,7 @@ Die Unterstützung der Kirche war besonders relevant für die
 Hexenverfolgung. Anfangs ging sie nur gegen Nicht-Gläubige, später wurde
 die Inquisition allerdings auf Hexen gerichtet. Besonderer Beführworter
 der Hexenverfolgung war Beispielsweise **Calvin**
-([Calvinismus](database/calvinismus)) der glaubte, dass Menschen Gott dienten
+([Calvinismus](calvinismus.org)) der glaubte, dass Menschen Gott dienten
 und nicht umgekehrt. Aufgrund von seinen Lehren wurde ein Fragekatalog
 entwickelt, mit dem Ziel immer ein Schuldspruch zu erhalten.\
 Neben der Kirche waren auch die weltliche Gerichte sehr wichtig. Während

@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	path := "./database/philosophy.md"
+	path := "./database/hexen.md"
 	input, err := ioutil.ReadFile(path)
 	if err != nil {
 		log.Fatalln(err)
@@ -18,7 +18,7 @@ func main() {
 	for i, line := range lines {
 		if strings.Contains(line, "](") && strings.Contains(line, ".org") {
 			ending := strings.Replace(line, ".org)", ")", 1)
-			lines[i] = strings.Replace(ending, "](", "](https://wiki.jeykey.net/en/database/", 1)
+			lines[i] = strings.Replace(ending, "](", "](/database/", 1)
 		}
 	}
 	output := strings.Join(lines, "\n")
