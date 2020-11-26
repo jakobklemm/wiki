@@ -1,6 +1,6 @@
 ---
 author: Jakob Klemm
-title: Aufklärung
+title: Aufklarung
 ---
 
 Prinzipien:
