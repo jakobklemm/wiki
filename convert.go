@@ -7,7 +7,8 @@ import (
 )
 
 func main() {
-	input, err := ioutil.ReadFile("./database/hexen.md")
+	path := "./database/philosophy.md"
+	input, err := ioutil.ReadFile(path)
 	if err != nil {
 		log.Fatalln(err)
 	}
@@ -17,11 +18,11 @@ func main() {
 	for i, line := range lines {
 		if strings.Contains(line, "](") && strings.Contains(line, ".org") {
 			ending := strings.Replace(line, ".org)", ")", 1)
-			lines[i] = strings.Replace(ending, "](", "](database/", 1)
+			lines[i] = strings.Replace(ending, "](", "](", 1)
 		}
 	}
 	output := strings.Join(lines, "\n")
-	err = ioutil.WriteFile("./database/hexen.md", []byte(output), 0644)
+	err = ioutil.WriteFile(path, []byte(output), 0644)
 	if err != nil {
 		log.Fatalln(err)
 	}
