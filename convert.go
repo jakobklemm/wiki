@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	path := "./database/hexen.md"
+	path := "./database/philosophy.md"
 	input, err := ioutil.ReadFile(path)
 	if err != nil {
 		log.Fatalln(err)
