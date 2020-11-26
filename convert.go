@@ -18,7 +18,7 @@ func main() {
 	for i, line := range lines {
 		if strings.Contains(line, "](") && strings.Contains(line, ".org") {
 			ending := strings.Replace(line, ".org)", ")", 1)
-			lines[i] = strings.Replace(ending, "](", "](", 1)
+			lines[i] = strings.Replace(ending, "](", "](https://wiki.jeykey.net/en/database/", 1)
 		}
 	}
 	output := strings.Join(lines, "\n")
