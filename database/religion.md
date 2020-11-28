@@ -5,8 +5,8 @@ title: Religion
 
 God and stuff.
 
--   [Hexen](hexen)
+-   [Hexen](/hexen)
 
 Ideologien:
 
--   [Calvinismus](calvinismus)
+-   [Calvinismus](/calvinismus)

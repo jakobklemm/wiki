@@ -14,4 +14,4 @@ General stuff about computer science and programming.
 Tools
 =====
 
--   [A clean emacs config is an empty config file.](emacs)
+-   [A clean emacs config is an empty config file.](/emacs)

@@ -17,9 +17,9 @@ Knowledge
 personal knowledge management.
 
 -   Roam + org-roam
--   [Dunning Kruger Effekt](dunning_kruger_effekt)
+-   [Dunning Kruger Effekt](/dunning_kruger_effekt)
 
 System
 ======
 
--   [Personal system](personal_system)
+-   [Personal system](/personal_system)

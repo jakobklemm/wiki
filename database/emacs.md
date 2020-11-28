@@ -1284,7 +1284,7 @@ Design
 
 General improvements and design changes for `org-mode`, currently under
 the `org-mode` heading instead of `Interface`. Following
-[this](https://zzamboni.org/post/beautifying-org-mode-in-emacs/) blog.
+[this](/https://zzamboni.org/post/beautifying-org-mode-in-emacs/) blog.
 
 ``` {.commonlisp org-language="emacs-lisp"}
 (when (display-graphic-p)

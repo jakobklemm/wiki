@@ -13,7 +13,7 @@ Prinzipien:
 
 Wichtige Personen:
 
--   [Immanuel Kant](immanuel_kant)
+-   [Immanuel Kant](/immanuel_kant)
 
 Wichtige Daten:
 
