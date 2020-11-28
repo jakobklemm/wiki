@@ -1,5 +1,5 @@
 ---
-author: Jakob Klemm
+editor: markdown
 title: Immanuel Kant
 ---
 

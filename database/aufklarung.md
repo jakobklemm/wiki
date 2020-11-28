@@ -1,6 +1,6 @@
 ---
-author: Jakob Klemm
-title: Aufklarung
+editor: markdown
+title: Aufklärung
 ---
 
 Prinzipien:
@@ -13,7 +13,7 @@ Prinzipien:
 
 Wichtige Personen:
 
--   [Immanuel Kant](immanuel_kant.org)
+-   [Immanuel Kant](immanuel_kant)
 
 Wichtige Daten:
 

@@ -1,15 +1,12 @@
 ---
-dateCreated: 2020-11-26
 editor: markdown
-published: 1
-tags: religion, another
-title: religion
+title: Religion
 ---
 
 God and stuff.
 
--   [Hexen](hexen.org)
+-   [Hexen](hexen)
 
 Ideologien:
 
--   [Calvinismus](calvinismus.org)
+-   [Calvinismus](calvinismus)
