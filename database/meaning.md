@@ -1,6 +1,7 @@
 ---
 author: Jakob Klemm
 date: 26.11.2020
+db: true
 editor: markdown
 title: Meaning
 ---

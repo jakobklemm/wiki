@@ -1,5 +1,6 @@
 ---
 author: Jakob Klemm
+db: true
 editor: markdown
 email: jakob.klemm\@protonmail.com
 title: A clean emacs config is an empty config file.

@@ -1,4 +1,5 @@
 ---
+db: true
 editor: markdown
 title: Personal system
 ---
