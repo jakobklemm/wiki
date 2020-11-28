@@ -4,9 +4,9 @@ editor: markdown
 title: Hexen
 ---
 
-(updated) Die Hexenverfolgung ist kein mittelalterliches Phänomen, der
-Höhepunkt wurde erst zwischen 1580 - 1620 erreicht. Dabei kamen zwischen
-40\'000 und 80\'000 Menschen ums leben.\
+Die Hexenverfolgung ist kein mittelalterliches Phänomen, der Höhepunkt
+wurde erst zwischen 1580 - 1620 erreicht. Dabei kamen zwischen 40\'000
+und 80\'000 Menschen ums leben.\
 Das 13. Jahrhundert wird auch das dümmste Jahrhundert genannt. Es gab
 beinahe keine Wissenschaft und die Kirche hatte viel Macht. Dazu waren
 die Lebensbedingungen schlecht und niemand hatte eine Lösung oder

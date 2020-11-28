@@ -4,12 +4,6 @@ editor: markdown
 title: Calvinismus
 ---
 
-```{=org}
-#+HUGO_SECTION: posts
-```
-```{=org}
-#+HUGO_BASE_DIR:~/documents/projects/knowledge
-```
 Calvinisten folgen der Ideologie von Jean Cauvin (Johannes Calvin)
 (\*1509, †1564).\
 Nach Calvins Lehre ist der Mensch von Gott zu Heil oder Unheil

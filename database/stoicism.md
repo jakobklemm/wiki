@@ -1,5 +1,4 @@
 ---
-date: 26.11.2020
 db: true
 editor: markdown
 title: Stoicism
