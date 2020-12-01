@@ -2,7 +2,7 @@
 title: GenServer boilerplate
 description: Required components for a GenServer implementation.
 published: 1
-date: 2020-12-01T12:03:34.155Z
+date: 2020-12-01T12:58:57.002Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-01T11:05:41.379Z
