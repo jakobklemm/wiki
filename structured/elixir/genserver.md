@@ -2,7 +2,7 @@
 title: GenServer boilerplate
 description: Required components for a GenServer implementation.
 published: 1
-date: 2020-12-01T11:05:41.379Z
+date: 2020-12-01T11:25:40.382Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-01T11:05:41.379Z
@@ -17,7 +17,6 @@ dateCreated: 2020-12-01T11:05:41.379Z
 ``` elixir
 defmodule App.Application do
   use Application
-
 	# Hier wird nur der dynamische Supervisor gestartet, die eigentlichen Prozesse werden erst dort registriert.
 
   def start(_, _) do
