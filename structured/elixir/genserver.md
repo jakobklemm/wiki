@@ -2,7 +2,7 @@
 title: GenServer boilerplate
 description: Required components for a GenServer implementation.
 published: 1
-date: 2020-12-01T11:25:40.382Z
+date: 2020-12-01T12:03:34.155Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-01T11:05:41.379Z
@@ -12,6 +12,7 @@ dateCreated: 2020-12-01T11:05:41.379Z
 - Supervisor
 - DynamicSupervisor
 - Worker / GenServer
+- Mix file
 
 ## Supervisor
 ``` elixir
@@ -30,6 +31,30 @@ defmodule App.Application do
 end
 ```
 
+## mix.exs
+``` elixir
+
+defmodule Mas.MixProject do
+  use Mix.Project
+
+  def project do
+    []
+  end
+
+  # Run "mix help compile.app" to learn about applications.
+  def application do
+    [
+      extra_applications: [:logger],
+      mod: {App.Application, []}
+    ]
+  end
+
+  # Run "mix help deps" to learn about dependencies.
+  defp deps do
+    []
+  end
+end
+```
 
 ## DynamicSupervisor
 ``` elixir
