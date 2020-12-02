@@ -2,7 +2,7 @@
 title: GenServer boilerplate
 description: Required components for a GenServer implementation.
 published: 1
-date: 2020-12-01T12:58:57.002Z
+date: 2020-12-02T10:38:17.983Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-01T11:05:41.379Z
@@ -13,6 +13,7 @@ dateCreated: 2020-12-01T11:05:41.379Z
 - DynamicSupervisor
 - Worker / GenServer
 - Mix file
+- Tests
 
 ## Supervisor
 ``` elixir
@@ -120,4 +121,21 @@ defmodule App.Worker do
   end
 end
 
+```
+
+## Tests
+``` elixir
+defmodule App.WorkerTest do
+  use ExUnit.Case
+  doctest App.Worker
+
+  setup_all do
+    {:ok, pid} = App.Worker.updateUser("UUID", %{})
+    {:ok, server: pid}
+  end
+
+  test "Start something.", %{server: pid} do
+    assert App.Worker.updateUser("UUID", %{}) == {:error, {:already_started, pid}}
+  end
+end
 ```
