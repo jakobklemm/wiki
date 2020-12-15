@@ -2,9 +2,9 @@
 title: Personal system
 description: Explanation of my personal system and its structure.
 published: 1
-date: 2020-11-29T21:28:33.607Z
-tags: struc
-editor: markdown
+date: 2020-12-15T12:24:07.432Z
+tags: 
+editor: undefined
 dateCreated: 2020-11-29T10:14:51.310Z
 ---
 

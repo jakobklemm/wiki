@@ -2,9 +2,9 @@
 title: Telly for Plex
 description: 
 published: 1
-date: 2020-11-28T15:06:04.684Z
-tags: struc
-editor: markdown
+date: 2020-12-15T12:24:25.725Z
+tags: 
+editor: undefined
 dateCreated: 2020-11-28T15:06:04.684Z
 ---
 

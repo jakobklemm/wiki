@@ -2,9 +2,9 @@
 title: Structured
 description: Explanation of the structured wiki.
 published: 1
-date: 2020-11-28T15:02:17.226Z
-tags: info
-editor: markdown
+date: 2020-12-15T12:23:37.622Z
+tags: 
+editor: undefined
 dateCreated: 2020-11-28T13:00:15.893Z
 ---
 

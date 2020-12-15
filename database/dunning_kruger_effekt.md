@@ -1,7 +1,11 @@
 ---
-db: true
-editor: markdown
 title: Dunning Kruger Effect
+description: 
+published: 1
+date: 2020-12-15T12:23:41.729Z
+tags: 
+editor: undefined
+dateCreated: 2020-11-28T10:39:43.929Z
 ---
 
 > „Wenn man inkompetent ist, kann man nicht wissen, dass man inkompetent

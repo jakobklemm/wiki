@@ -2,9 +2,9 @@
 title: Reading system
 description: Description of a system for collecting notes and ideas from books.
 published: 1
-date: 2020-11-29T21:37:14.946Z
-tags: struc
-editor: markdown
+date: 2020-12-15T12:24:03.181Z
+tags: 
+editor: undefined
 dateCreated: 2020-11-29T10:28:01.136Z
 ---
 

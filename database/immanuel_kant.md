@@ -1,7 +1,11 @@
 ---
-db: true
-editor: markdown
 title: Immanuel Kant
+description: 
+published: 1
+date: 2020-12-15T12:23:46.320Z
+tags: 
+editor: undefined
+dateCreated: 2020-11-26T18:20:01.812Z
 ---
 
 Moralität wurde historisch immer über Religion und Gott bestimmt. Aber

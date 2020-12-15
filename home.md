@@ -2,9 +2,9 @@
 title: Home
 description: 
 published: 1
-date: 2020-11-28T15:02:44.762Z
-tags: info
-editor: markdown
+date: 2020-12-15T12:23:29.881Z
+tags: 
+editor: undefined
 dateCreated: 2020-11-27T11:23:59.913Z
 ---
 

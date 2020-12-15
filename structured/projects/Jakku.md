@@ -2,9 +2,9 @@
 title: Jakku
 description: Browser based emacs task viewer.
 published: 1
-date: 2020-12-03T21:02:59.916Z
+date: 2020-12-15T12:24:11.787Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-03T21:02:59.916Z
 ---
 

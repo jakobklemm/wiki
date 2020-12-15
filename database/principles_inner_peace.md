@@ -1,7 +1,11 @@
 ---
-db: true
-editor: markdown
 title: Principles for inner peace
+description: 
+published: 1
+date: 2020-12-15T12:23:54.655Z
+tags: 
+editor: undefined
+dateCreated: 2020-11-28T10:40:31.576Z
 ---
 
 7 Stoic principles for inner peace. (Einzelgänger - YouTube)\

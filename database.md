@@ -2,9 +2,9 @@
 title: Database
 description: Explanation of the knowledge management system.
 published: 1
-date: 2020-11-28T12:50:02.606Z
-tags: info
-editor: markdown
+date: 2020-12-15T12:23:18.903Z
+tags: 
+editor: undefined
 dateCreated: 2020-11-28T12:50:02.606Z
 ---
 

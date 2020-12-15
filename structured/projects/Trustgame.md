@@ -2,9 +2,9 @@
 title: Trustgame
 description: Simple (and bad) implementation of a basic game theory game.
 published: 1
-date: 2020-12-03T21:06:14.523Z
+date: 2020-12-15T12:24:17.240Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-03T21:06:14.523Z
 ---
 
