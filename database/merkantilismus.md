@@ -1,11 +1,7 @@
 ---
+db: true
+editor: markdown
 title: Merkantilismus
-description: 
-published: 1
-date: 2020-12-15T12:23:50.413Z
-tags: 
-editor: undefined
-dateCreated: 2020-11-28T10:40:15.013Z
 ---
 
 Ein Wirtschaftssystem zwischen dem 16. und 17. Jahrhundert. Beschreibt
