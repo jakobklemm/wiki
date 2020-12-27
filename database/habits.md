@@ -7,4 +7,4 @@ title: Habits
 (Buffet & Gates on Success, 8:37)
 
 > The chains of habit are to light to be felt until they are to heavy to
-> be broken. - Warren Buffet
+> be broken. - Warren Buffett
