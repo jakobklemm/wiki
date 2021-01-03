@@ -2,7 +2,7 @@
 title: Reading system
 description: Description of a system for collecting notes and ideas from books.
 published: 1
-date: 2020-12-22T22:28:45.894Z
+date: 2021-01-03T00:12:39.842Z
 tags: struc
 editor: markdown
 dateCreated: 2020-11-29T10:28:01.136Z
@@ -47,3 +47,7 @@ Für Fehler oder Unsicherheiten / Unklarheiten, Stelle muss noch verstanden oder
 - 
 (Ohne Symbol)
 Stellen, welche nur für das aktuelle Buch / im aktuellen Kontext wichtig sind und nicht weiter verarbeitet werden müssen.
+# Integration
+Die markierten Stellen sollen nicht 1 zu 1 ins System übertragen werden. Stattdessen sollen die Ideen die daraus geformt werden integriert und eingebunden werden. Tatsächliche Zitate sollen nur möglichst selten vorkommen. 
+Es geht nicht um das Wiederfinden oder Speichern der Ideen des Buches, sondern um das Ansammeln und Verknüpfen von persönlichen Gedanken und Konzepten, welche durch andere Quellen entstanden sind.
+(https://www.youtube.com/watch?v=Ewhfok91AdE&ab_channel=BryanJenks)
