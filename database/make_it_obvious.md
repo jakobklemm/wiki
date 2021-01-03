@@ -4,4 +4,5 @@ editor: markdown
 title: Make it obvious
 ---
 
-[Habit stacking](/database/habit_stacking)
+[Habit stacking](/database/habit_stacking) [Implementation
+intention](/database/implementation_intention)
