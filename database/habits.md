@@ -4,7 +4,7 @@ editor: markdown
 title: Habits
 ---
 
-(Buffet & Gates on Success, 8:37)
-
-> The chains of habit are to light to be felt until they are to heavy to
-> be broken. - Warren Buffett
+-   [Make it obvious](/database/make_it_obvious)
+-   [Make it attractive](/database/make_it_attractive)
+-   [Make it easy](/database/make_it_easy)
+-   [Make it satisfying](/database/make_it_satisfying)
