@@ -13,4 +13,4 @@ If all Microsoft Products are available and useable but the login at https://tea
 
 If it is just a timezone issue or a local config error doesn't matter but in order to solve this issue the local time needs to be set to (more or less) UTC.
 
-(It is irelevant whether the installed local app or the browser version is used, the local systemtime is used either way.)
+(It is irrelevant whether the installed local app or the browser version is used, the local systemtime is used either way.)
