@@ -2,14 +2,14 @@
 title: Reading system
 description: Description of a system for collecting notes and ideas from books.
 published: 1
-date: 2021-01-03T00:12:39.842Z
+date: 2021-01-18T20:41:41.874Z
 tags: struc
 editor: markdown
 dateCreated: 2020-11-29T10:28:01.136Z
 ---
 
 # Problem
-Beim lesen ist das Verstehen der Informationen weniger das Problem als das Verbinden und Wiederaufbringen. Daher benötigt man ein System, mit welchem Informationen direkt kategorisiert werden können, um spätere Verarbeitung zu erleichtern.
+Beim Lesen ist das Verstehen der Informationen weniger das Problem als das Verbinden und Wiederaufbringen. Daher benötigt man ein System, mit welchem Informationen direkt kategorisiert werden können, um spätere Verarbeitung zu erleichtern.
 
 Aber das einfache Anstreichen oder Unterstreichen bringt meistens nichts, da man beim späteren überfliegen der Informationen trotzdem den aktuellen Kontext verstehen muss, nur um die angeblich wichtige Textstelle zu interpretieren.
 
