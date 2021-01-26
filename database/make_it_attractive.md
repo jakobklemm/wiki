@@ -22,4 +22,10 @@ We imitate the behavior of three groups:
 -   [The many](/database/the_many)
 -   [The powerful](/database/the_powerful)
 
-But why do we even want to do anything? [Motivation](/database/motivation)
+Another possibility utilizing [The close](/database/the_close) might be inform
+somebody about your new habit. This can then make it difficult to break
+a habit, since it would disappoint the other person. If simply informing
+them is not enough a [Habit contract](/database/habit_contract) can be used.
+
+It is also important to understand `Why?` you are doing it (or
+anything), so you need to understand your [Motivation](/database/motivation).
