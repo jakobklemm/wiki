@@ -8,8 +8,8 @@ While our lives are shaped a lot by external forces and events or people
 that are outside our control, some people believe that we can still
 manifest our own destiny and take control over our own lives. The degree
 to which people believe things are within their control is called
-`Locus of control` and it is often referred to as a key factor of
-success.
+`Locus of control`{.verbatim} and it is often referred to as a key
+factor of success.
 
 If you simply believe your live to be miserable because other people or
 your environment makes you miserable, you will have no motivation or

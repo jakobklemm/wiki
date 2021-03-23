@@ -27,5 +27,6 @@ somebody about your new habit. This can then make it difficult to break
 a habit, since it would disappoint the other person. If simply informing
 them is not enough a [Habit contract](/database/habit_contract) can be used.
 
-It is also important to understand `Why?` you are doing it (or
-anything), so you need to understand your [Motivation](/database/motivation).
+It is also important to understand `Why?`{.verbatim} you are doing it
+(or anything), so you need to understand your
+[Motivation](/database/motivation).

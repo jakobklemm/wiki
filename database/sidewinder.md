@@ -4,9 +4,9 @@ editor: markdown
 title: Sidewinder
 ---
 
-Die `AIM-9 Sidewinder` war die erste wärmesuchende Luft zu Luft Rakete
-der Welt. Sie wurde unter extremer Geheimhaltung entwickelt und war der
-Soviet Union Jahre voraus.
+Die `AIM-9 Sidewinder`{.verbatim} war die erste wärmesuchende Luft zu
+Luft Rakete der Welt. Sie wurde unter extremer Geheimhaltung entwickelt
+und war der Soviet Union Jahre voraus.
 
 Während der chinesischen Offensive gegen Taiwan unterstützen beide
 Seiten den Konflikt. Mit den MiG-17 Flugzeugen hatte China den klaren
@@ -18,7 +18,7 @@ zum ersten mal gelenkte Luft-Luft-Raketen eingesetzt.
 Während den Kämpfen blieb eine der Raketen in einem chinesischen
 Flugzeug stecken und konnte analysiert werden. Daraufhin entwickelte die
 UDSSR ihre eigene Lenkfeuerwaffe. Bereits wenige Jahre später wurde die
-`K-13` eingesetzt und wurde zur am weitest verbreiteten Luft-Luft-Rakete
-der Welt. Zwar waren die USA technisch immer noch im Vorteil, aber die
-Fehler über Taiwan schufen gleiche Bedingungen in zukünftigen
-Luft-Konflikten.
+`K-13`{.verbatim} eingesetzt und wurde zur am weitest verbreiteten
+Luft-Luft-Rakete der Welt. Zwar waren die USA technisch immer noch im
+Vorteil, aber die Fehler über Taiwan schufen gleiche Bedingungen in
+zukünftigen Luft-Konflikten.
