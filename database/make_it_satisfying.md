@@ -26,7 +26,7 @@ brains are trained to prioritize instant rewards over delayed rewards.
 
 To actually stick with habits it is important that their ending is in
 some way satisfying. Similarly to [Habit
-stacking](id:302a5f51-60ba-43ad-a465-4b19d7842d67), where you attach the
+stacking](/database/habit_stacking), where you attach the
 beginning of a habit to something, it can be helpful to attach some kind
 of reward to the end of one. This does not have to happen for ever,
 since at some point the delayed gratification starts setting in, making

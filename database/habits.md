@@ -16,7 +16,7 @@ is important to give a reason to do it, to [Make it
 attractive](/database/make_it_attractive). Humans always chose the path of
 least resistance, meaning just because something is attractive, it might
 not be enough to trick ourselves into doing it. That\'s why it is
-important to [Make it easy](id:52e11315-5835-4f86-a335-f625ed980136).
+important to [Make it easy](/database/make_it_easy).
 
 Up to now we have looked at tactics to get us started with a habit and
 actually do it. But what turns actions into habits is repetition. In

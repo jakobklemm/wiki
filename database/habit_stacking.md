@@ -11,7 +11,7 @@ advantages:
 -   You are already in an *habit-mindset*, making the transition easier.
 -   The decision of what to do next is heavily influenced by what we
     just did / completed. (The [Diderot
-    effect](id:5bafe3f9-5134-4c0b-b83e-19fa34cd4469)) describes a
+    effect](/database/diderot)) describes a
     similar behavior, but in the context of spending habits and
     spirals.)
 -   After successfully completing a task you can profit of the natural

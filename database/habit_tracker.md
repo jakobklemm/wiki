@@ -22,5 +22,5 @@ keep regular commits going.
 At first glance habit tracking might seem like an additional habit that
 now also needs to be internalized. Preferably the tracking should be
 fully automated (like on Github), but if thats not possible it might be
-helpful to use [Habit stacking](id:302a5f51-60ba-43ad-a465-4b19d7842d67)
+helpful to use [Habit stacking](/databaes/habit_stacking)
 to trigger the tracking of a habit after the habit itself.
