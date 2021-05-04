@@ -1,11 +1,11 @@
 ---
 title: Reading system
 description: Description of a system for collecting notes and ideas from books.
-published: 1
-date: 2021-01-18T20:41:41.874Z
+published: true
+date: 2021-05-04T09:51:15.798Z
 tags: struc
 editor: markdown
-dateCreated: 2020-11-29T10:28:01.136Z
+dateCreated: 2021-04-18T12:09:29.026Z
 ---
 
 # Problem
@@ -20,7 +20,7 @@ Das ausführliche Ausarbeiten und Kritisieren der Ideen am Rand des Buchs oder z
 # Vorgehen
 ## Pro Session
 1. Kapitel / Abschnitt überfliegen und ein Gefühl für die Struktur bekommen.
-2. Alles marakieren, was Verbindungen oder Gedanken auslöst. (Wieso oder mit was ist nicht wichtig) 
+2. Alles markieren, was Verbindungen oder Gedanken auslöst. (Wieso oder mit was ist nicht wichtig) 
 3. Markierte Stellen durchgehen und mit Tags / Icons versehen.
 ## Pro Kapitel
 1. Markierte Stellen durchlesen und Kontext erarbeiten.
