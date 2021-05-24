@@ -2,13 +2,14 @@
 title: Traefik Docker (Compose) + Loadbalancer + TLS
 description: 
 published: true
-date: 2021-05-24T18:46:02.943Z
+date: 2021-05-24T18:47:15.071Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-24T18:46:02.943Z
 ---
 
 # Compose
+Important: acme.json must have permission level 600.
 ``` yml
 version: "3.2"
 services:
@@ -24,7 +25,7 @@ services:
     command:
       - "--api=true"
       - "--api.dashboard=true"
-      - "--log.level=DEBUG"
+      - "--log.level=INFO"
       - "--providers.docker=true"
       - "--providers.docker.exposedbydefault=false"
       - "--providers.docker.network=web"
