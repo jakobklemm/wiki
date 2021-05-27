@@ -1,0 +1,4 @@
+#+TITLE: Jakob Klemm - Database
+#+AUTHOR: Jakob Klemm
+
+Personal knowledge database & notes archive.

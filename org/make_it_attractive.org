@@ -1,0 +1,26 @@
+#+title: Make it attractive
+
+Humans are rewarded the easiest using [[file:dopamine.org][Dopamine]], since it is the humans
+natural way of reward. The issue is that the natural reward system can
+be used in both directions the same way, meaning good habits use the
+same reward system as bad ones.
+
+If dopamine is still not enough to learn a new difficult habit you can
+change your [[file:habit_perspective.org][Habit perspective]] on it.
+
+It can also be easier to do learn a habit, if it is the social norm or
+enforced through culture. This is highly effective, since humans are
+herd animals.
+
+We imitate the behavior of three groups:
+- [[file:the_close.org][The close]]
+- [[file:the_many.org][The many]]
+- [[file:the_powerful.org][The powerful]]
+
+Another possibility utilizing [[file:the_close.org][The close]] might be inform somebody about
+your new habit. This can then make it difficult to break a habit,
+since it would disappoint the other person. If simply informing them
+is not enough a [[file:habit_contract.org][Habit contract]] can be used.
+
+It is also important to understand =Why?= you are doing it (or
+anything), so you need to understand your [[file:motivation.org][Motivation]].

@@ -1,0 +1,10 @@
+#+title: Stoicism
+
+- Clear separation between things in and out of our control ([[file:locus_of_control.org][Locus of
+  control]]).
+- 4 Virtues:
+  - Courage
+  - Temperance
+  - Justice
+  - Wisdom
+- Principles: [[file:principles_inner_peace.org][Principles for inner peace]]

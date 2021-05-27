@@ -1,9 +1,0 @@
----
-db: true
-editor: markdown
-title: Thermal exhaust port
----
-
-A single small flaw in an otherwise flawless system. The idea comes from
-the death star with its single exhaust port that was exploitable and
-destroyed the entire base.
