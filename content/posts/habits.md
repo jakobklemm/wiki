@@ -1,7 +1,7 @@
 +++
 title = "Habits"
 author = ["Jakob Klemm"]
-lastmod = 2021-04-05T11:05:33+02:00
+lastmod = 2021-06-03T12:17:26+02:00
 draft = false
 +++
 
@@ -16,7 +16,7 @@ to [Make it obvious]({{< relref "make_it_obvious" >}}). Once a habit is triggere
 a reason to do it, to [Make it attractive]({{< relref "make_it_attractive" >}}). Humans always chose the path
 of least resistance, meaning just because something is attractive, it
 might not be enough to trick ourselves into doing it. That's why it is
-important to [Make it easy]({{< relref "make_it_easy" >}}).
+important to [Make it easy](make_it_easy).
 
 Up to now we have looked at tactics to get us started with a habit and
 actually do it. But what turns actions into habits is repetition. In

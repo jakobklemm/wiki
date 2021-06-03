@@ -1,4 +1,5 @@
 #+title: Friction
+
 (Not physical forces, but friction in human behavior.)
 Humans only do what is easy and convenient for them. They try to
 avoid more friction at any cost.

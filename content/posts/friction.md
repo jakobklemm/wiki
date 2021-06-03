@@ -1,7 +1,7 @@
 +++
 title = "Friction"
 author = ["Jakob Klemm"]
-lastmod = 2021-01-21T11:03:10+02:00
+lastmod = 2021-06-03T12:18:24+02:00
 draft = false
 +++
 
