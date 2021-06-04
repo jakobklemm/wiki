@@ -1,4 +1,4 @@
-baseurl      = "https://wiki.jeykey.net"
+baseurl      = "https://jakobklemm.github.io/database/"
 title        = "Jakob Klemm - Database"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
