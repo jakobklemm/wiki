@@ -11,7 +11,7 @@ paginate     = 20
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Personal knowledge database."
+  homeSubtitle = "Personal knowledge database"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
