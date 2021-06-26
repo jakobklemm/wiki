@@ -20,7 +20,7 @@ paginate     = 20
   enableSharingButtons = false
 
   # Metadata mostly used in document's head
-  description = "Jakob Klemm - Personal knowledge database."
+  description = "Jakob Klemm - Personal knowledge database"
   keywords = "homepage, blog"
   images = [""]
 
