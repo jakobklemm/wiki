@@ -1,47 +1,43 @@
 baseurl      = "https://jeykey.net"
 title        = "Jakob Klemm - Database"
 languageCode = "en-us"
-theme        = "hello-friend-ng"
-paginate     = 20
+theme        = "anubis"
+paginate     = 5
+
+[author]
+name = "Jakob Klemm"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+author = "Jakob Klemm"
+description = "Personal knowledge database"
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+style = "dark"
+readMore = false
 
-  # Subtitle for home
-  homeSubtitle = "Personal knowledge database"
+[menu]
 
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
 
-  # Enable sharing buttons, if you like
-  enableSharingButtons = false
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 2
 
-  # Metadata mostly used in document's head
-  description = "Personal knowledge database"
-  keywords = "homepage, blog, database, knowledge"
-  images = [""]
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 3
 
 [taxonomies]
-    category = "blog"
-    tag      = "tags"
-    series   = "series"
+category = "categories"
+tag = "tags"
 
-[languages]
-  [languages.en]
-    title = "Jakob Klemm - Database"
-    subtitle = "Personal knowledge database."
-    keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
-
-    [languages.en.params.logo]
-      logoText = "Jakob Klemm/database"
-      logoHomeLink = "/"
-
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Posts"
-    url        = "/posts"
+[markup.goldmark.renderer]
+unsafe = true
