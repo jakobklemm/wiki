@@ -1,4 +1,4 @@
-baseurl      = "https://database.jeykey.net"
+baseurl      = "https://jeykey.net"
 title        = "Jakob Klemm - Database"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
