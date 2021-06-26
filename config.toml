@@ -21,7 +21,7 @@ paginate     = 20
 
   # Metadata mostly used in document's head
   description = "Personal knowledge database"
-  keywords = "homepage, blog, database"
+  keywords = "homepage, blog, database, jeykey"
   images = [""]
 
 [taxonomies]
